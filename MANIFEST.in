@@ -1,0 +1,2 @@
+recursive-include C_NXT *.h
+recursive-include C_NXT *.c
